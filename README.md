@@ -43,6 +43,7 @@ style="padding-right:10px"
 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <br>
 
+<br>
 
 ### 📒 **Studing**
 
@@ -52,8 +53,6 @@ style="padding-right:10px"
 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 
 ___
-<br>
-
 ### 📧 **Contact via email**  [wnsdhqo@naver.com](wnsdhqo@naver.com)
 ___
 
