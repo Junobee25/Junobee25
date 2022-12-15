@@ -2,7 +2,6 @@
 
 17학번 전남대학교 **수학** 전공 (17/03 ~ 23/02)
 
-<br>
 <img src="https://play-lh.googleusercontent.com/E9F-nSIgHtm5k8US5VsY1RsNWkvUMPtm-yptOBj2_5_nLLSjW85rLU-JQ54jBTPbj7Db" width="50">
 <br>
 
@@ -47,8 +46,6 @@ style="padding-right:10px"
 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <br>
 
-<br>
-<br>
 <br>
 
 ### 📒 **Studing**
