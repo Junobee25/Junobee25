@@ -33,8 +33,6 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-
 
 ### **Front-End Stack**
 
-<div>
-<br>
 <img align="left" alt="Mongo" width="30px" 
 style="padding-right:10px" 
 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
@@ -47,7 +45,6 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-o
 <img align="left" alt="Mongo" width="30px"
 style="padding-right:10px" 
 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div>
 <br>
 
 <br>
