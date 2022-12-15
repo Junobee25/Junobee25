@@ -45,3 +45,11 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-o
 <img align="left" alt="Mongo" width="30px" 
 style="padding-right:10px" 
 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+
+
+<br>
+<br>
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junobee25&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
