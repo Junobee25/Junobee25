@@ -8,7 +8,7 @@
 
 ___
 
-### **[Studing[:Back-End Stack**
+### **[Studing]Back-End**
 <img align="left" alt="Java" width="30px" 
 style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="left" alt="Spring" width="30px" 
@@ -27,7 +27,7 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-
 <br>
 <br>
 
-### **[using]:Front-End Stack**
+### **[Using]Front-End**
 
 <img align="left" alt="Mongo" width="30px" 
 style="padding-right:10px" 
