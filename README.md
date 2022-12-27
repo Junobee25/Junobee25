@@ -2,9 +2,9 @@
 
 17학번 전남대학교 **수학** 전공 (17/03 ~ 23/02)
 
-<img src="https://play-lh.googleusercontent.com/E9F-nSIgHtm5k8US5VsY1RsNWkvUMPtm-yptOBj2_5_nLLSjW85rLU-JQ54jBTPbj7Db" width="50">
+<img src="https://d1fdloi71mui9q.cloudfront.net/lfIz6MzSzNlMtgy9kbOg_0001-37679195113.png" width="50">
 
-멀티캠퍼스에서 백엔드 공부 중 
+KT AIVLE - AI Track 3th 
 
 ___
 
