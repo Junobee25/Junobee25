@@ -9,19 +9,13 @@ KT AIVLE - AI Track 3th
 ___
 
 ### **[Studing]Back-End**
-<img align="left" alt="Java" width="30px" 
-style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="left" alt="Spring" width="30px" 
-style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 <img align="left" alt="Mongo" width="30px" 
 style="padding-right:10px" 
 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Mongo" width="30px" 
 style="padding-right:10px" 
 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-<img align="left" alt="Mongo" width="30px" 
-style="padding-right:10px" 
-src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg">
+
 
 
 <br>
@@ -50,7 +44,12 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.sv
 <a href="https://past-coin-f97.notion.site/React-2023-3950e9017a854ce7939af6e9f15bde37">React를 활용한 쇼핑몰 웹사이트 만들기</a>
 <img align="left" alt="Mongo" width="30px"
 style="padding-right:10px" 
-src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">  
+<br>
+
+### 📘 **Reading Book**  
+✅
+<a href="https://www.coupang.com/vp/products/1832148931?itemId=3116209690&vendorItemId=71103933866&src=1042503&spec=10304982&addtag=400&ctag=1832148931&lptag=10304982I3116209690&itime=20230103145741&pageType=PRODUCT&pageValue=1832148931&wPcid=16709852098778893272789&wRef=&wTime=20230103145741&redirect=landing&gclid=Cj0KCQiAnsqdBhCGARIsAAyjYjRbQpy0tnLStNNlL2pt-w1GfHFa0GNXO5BGBMApRTqtVpJscpUhq9waAhA_EALw_wcB&campaignid=18626086777&adgroupid=&isAddedCart=">비전공자를 위한 이해할 수있는 IT지식</a>
 
 ___
 ### 📧 **Contact via email**  [wnsdhqo@naver.com](wnsdhqo@naver.com)
