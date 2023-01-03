@@ -7,8 +7,17 @@
 KT AIVLE - AI Track 3th 
 
 ___
+### **[Programming Languages]**  
+<img align="left" alt ="python" width="30px" 
+style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
+<img align="left" alt="Mongo" width="30px" 
+style="padding-right:10px" 
+src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
 
-### **[Studing]Back-End**
+<br>
+<br>
+
+### **[Back-End]**
 <img align="left" alt="Mongo" width="30px" 
 style="padding-right:10px" 
 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -21,7 +30,7 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-origina
 <br>
 <br>
 
-### **[Using]Front-End**
+### **[Front-End]**
 
 <img align="left" alt="Mongo" width="30px" 
 style="padding-right:10px" 
@@ -29,9 +38,6 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wo
 <img align="left" alt="Mongo" width="30px" 
 style="padding-right:10px" 
 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-<img align="left" alt="Mongo" width="30px" 
-style="padding-right:10px" 
-src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="left" alt="Mongo" width="30px"
 style="padding-right:10px" 
 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
