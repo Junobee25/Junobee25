@@ -6,6 +6,7 @@
 
 KT AIVLE - AI Track 3th 
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wnsdhqo})](https://solved.ac/{wnsdhqo})
 ___
 ### **[Programming Languages]**  
 <img align="left" alt ="python" width="30px" 
