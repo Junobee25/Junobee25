@@ -1,4 +1,4 @@
-d![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Junoh%20Bae&fontSize=70&fontAlign=70&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Junoh%20Bae&fontSize=70&fontAlign=70&fontColor=fff)
 <h3 align = "center"><strong>🛠️ Tech Stack 🛠️</strong></h3>
 
 ____
