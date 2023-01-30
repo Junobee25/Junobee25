@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Junoh%20Bae&fontSize=70&fontAlign=70&fontColor=fff)
+d![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Junoh%20Bae&fontSize=70&fontAlign=70&fontColor=fff)
 <h3 align = "center"><strong>🛠️ Tech Stack 🛠️</strong></h3>
 
 ____
@@ -41,7 +41,13 @@ ____
 <div align ="center">
 <a href="https://past-coin-f97.notion.site/React-2023-3950e9017a854ce7939af6e9f15bde37">React를 활용한 쇼핑몰 웹사이트 만들기</a>
 </div>
+
+<div align = "center">
+<a href = "https://sustaining-nightshade-275.notion.site/Algorithm-9a3f708ebed44b4a9d8431256576d43a">Algorithm Study</a>
+</div>
+
 <h4 align="center">📘 Reading Book 📘</h4>
+
 <div align="center">
 <a href="https://www.coupang.com/vp/products/1832148931?itemId=3116209690&vendorItemId=71103933866&src=1042503&spec=10304982&addtag=400&ctag=1832148931&lptag=10304982I3116209690&itime=20230103145741&pageType=PRODUCT&pageValue=1832148931&wPcid=16709852098778893272789&wRef=&wTime=20230103145741&redirect=landing&gclid=Cj0KCQiAnsqdBhCGARIsAAyjYjRbQpy0tnLStNNlL2pt-w1GfHFa0GNXO5BGBMApRTqtVpJscpUhq9waAhA_EALw_wcB&campaignid=18626086777&adgroupid=&isAddedCart=">비전공자를 위한 이해할 수있는 IT지식</a>
 </div>
