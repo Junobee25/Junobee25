@@ -60,6 +60,6 @@ ___
 <p align="center">
 <a href="mailto:wnsdhqo1983@gamil.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wnsdhqo1983@gamil.com"/></a>
 <a href="https://www.instagram.com/jun_oaku"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jun_oaku"/></a>
-<a href="https://blog.naver.com/wnsdhqo"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=연결하고싶은링크"/></a> 
+<a href="https://blog.naver.com/wnsdhqo"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/wnsdhqo"/></a> 
 </p>
 
