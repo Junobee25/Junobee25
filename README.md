@@ -39,7 +39,7 @@ ____
 
 <h4 align="center">🔥 Studing 🔥</h4>
 <div align ="center">
-<a href="https://github.com/Junobee25/KT-AlgorithmStudy">KT-AlgorithmStudy</a>
+<a href="https://github.com/Junobee25/KT-AlgorithmStudy/tree/develop">KT-AlgorithmStudy</a>
 </div>
 <div align ="center">
 <a href="https://github.com/Junobee25/OS-Study/tree/develop">KT-OsStudy</a>
