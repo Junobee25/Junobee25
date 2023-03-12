@@ -39,9 +39,11 @@ ____
 
 <h4 align="center">🔥 Studing 🔥</h4>
 <div align ="center">
-<a href="https://past-coin-f97.notion.site/React-2023-3950e9017a854ce7939af6e9f15bde37">React를 활용한 쇼핑몰 웹사이트 만들기</a>
+<a href="https://github.com/Junobee25/KT-AlgorithmStudy">KT-AlgorithmStudy</a>
 </div>
-
+<div align ="center">
+<a href="https://github.com/Junobee25/OS-Study/tree/develop">KT-OsStudy</a>
+</div>
 <div align = "center">
 <a href = "https://sustaining-nightshade-275.notion.site/Algorithm-ae171c01009b4f7d816efac139f2e0df">Algorithm Study</a>
 </div>
