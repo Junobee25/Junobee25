@@ -32,7 +32,7 @@ ____
 
 <div align="center">
  
- Gold2
+ baekjoon online judge : Gold2
 
 
 </div>
