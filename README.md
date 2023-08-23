@@ -57,15 +57,6 @@ ____
 </div>
 
 ___
-<h3 align="center"><b>📧 Social 📧</b></h3>
-</br>
-<p align="center">
-<a href="mailto:wnsdhqo1983@gamil.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wnsdhqo1983@gamil.com"/></a>
-<a href="https://www.instagram.com/jun_oaku"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jun_oaku"/></a>
-<a href="https://devsting.tistory.com/"><img src="https://shields.io/badge/tistory-black?logo=tistory&style=for-the-badge&link=https://devsting.tistory.com/"/></a> 
-</p>
-<div align = "center">
-<a href="https://opgc.me/#/users/junobee25" target="_blank"><img src="https://api.opgc.me/githubs/users/junobee25/tag/?theme=basic" /></a>
-</div>
+
 
  
