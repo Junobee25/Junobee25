@@ -32,8 +32,8 @@ ____
 
 <div align="center">
  
- baekjoon online judge : Gold2
-
+ baekjoon online judge : Gold2<br>
+ 6개월동안 300문제 해결 총 432문제
 
 </div>
 
