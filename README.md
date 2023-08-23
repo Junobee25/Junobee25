@@ -32,8 +32,8 @@ ____
 
 <div align="center">
  
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsdhqo)](https://solved.ac/wnsdhqo/)
+ Gold2
+
 
 </div>
 
