@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Blind%20names&fontSize=70&fontAlign=70&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juno%bee25&fontSize=70&fontAlign=70&fontColor=fff)
 <h3 align = "center"><strong>🛠️ Tech Stack 🛠️</strong></h3>
  
 ____
