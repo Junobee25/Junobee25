@@ -8,11 +8,14 @@ ____
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-squared&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </div>
+
 
 <div align="center">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
@@ -46,9 +49,7 @@ ____
 <div align = "center">
 <a href = "https://sustaining-nightshade-275.notion.site/Algorithm-ae171c01009b4f7d816efac139f2e0df">Algorithm Study</a>
 </div>
-<div align = "center">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-</div>
+
 
 
 ___
