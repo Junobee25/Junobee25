@@ -33,6 +33,7 @@ ____
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
 </div>
 
 <h4 align="center">⚔️ Solved.ac ⚔️</h4>
