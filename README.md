@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junobee25&show_icons=true&theme=apprentice )
+
 <h3 align = "center"><strong>🛠️ Tech Stack 🛠️</strong></h3>
  
 ____
