@@ -13,8 +13,3 @@
 
 #### `BOJ Solved.ac` 
 - [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnsdhqo)](https://solved.ac/wnsdhqo)
-
-
-![image](https://github.com/user-attachments/assets/3e8e36bf-d06d-4505-89f2-24983c9bf30f)
-
-![image](https://github.com/user-attachments/assets/1cc4f860-fbe3-4153-a23d-f3da40993a40)
